@@ -1,1 +1,1 @@
-# css-task1-price-cards
+# css-task1-price-card
